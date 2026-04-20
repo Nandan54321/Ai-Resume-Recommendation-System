@@ -4,3 +4,5 @@ pymongo
 sentence-transformers
 openai
 python-dotenv
+faker
+requests
